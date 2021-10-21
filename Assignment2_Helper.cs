@@ -122,7 +122,6 @@ namespace Assignment2
                 }
                 else
                 {
-                    //AutomationElement AE_Calc = uia.GetElementByControlTypeAndName(AutomationElement.RootElement, ControlType.Window, "Calculator", true, 60);
 
                     if (AE_Calc != null)
                     {
